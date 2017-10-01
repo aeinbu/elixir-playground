@@ -1,3 +1,3 @@
-# Erlang Playground
+# Elixir Playground
 
 https://elixir-lang.org/
